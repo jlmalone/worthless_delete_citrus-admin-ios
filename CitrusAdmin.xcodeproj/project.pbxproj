@@ -1,0 +1,17 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+		/* Begin PBXFileReference section */
+		CitrusAdminApp.swift /* CitrusAdminApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CitrusAdminApp.swift; sourceTree = "<group>"; };
+		ContentView.swift /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		Info.plist /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		/* End PBXFileReference section */
+
+	};
+	rootObject = {isa = PBXProject; };
+}
