@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.gradle/
+build/
+target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Environment
+.env
+.env.local
+*.log
+
+# Build outputs
+dist/
+*.apk
+*.app
+*.dmg
