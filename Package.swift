@@ -23,5 +23,10 @@ let package = Package(
             dependencies: [],
             path: "CitrusAdmin"
         ),
+        .testTarget(
+            name: "CitrusAdminTests",
+            dependencies: ["CitrusAdmin"],
+            path: "CitrusAdminTests"
+        ),
     ]
 )
